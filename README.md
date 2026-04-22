@@ -1,3 +1,30 @@
+# 🤖 Lead Capture Automation — n8n + Google Sheets + Gmail
+
+> A fully automated lead capture workflow built with n8n that 
+> captures form submissions, saves them to Google Sheets, and 
+> sends personalized welcome emails — all running 24/7 with 
+> zero human input.
+
+---
+
+## 📹 Demo Video
+
+https://github.com/sania313/n8n-lead-capture-automation/blob/main/YOUR-VIDEO-NAME.mp4
+
+---
+
+## 🎯 What This Automation Does
+
+Someone submits a form
+↓
+Webhook receives the data instantly
+↓
+Google Sheets saves the lead automatically
+↓
+Gmail sends a personalized welcome email
+↓
+All done — zero human involvement ✅
+
 ---
 
 ## 🛠️ Tools Used
@@ -57,6 +84,6 @@ Any business with a contact form can use this to:
 
 **Sania Batool**
 AI Automation Specialist
-[LinkedIn](https://www.linkedin.com/in/saniabatool) | 
+[LinkedIn](https://www.linkedin.com/in/saniabatool)
 
 ---
